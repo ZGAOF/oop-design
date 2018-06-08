@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/oop-design.iml" filepath="$PROJECT_DIR$/oop-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../oop-design/salary-pay/salary-pay.iml" filepath="$PROJECT_DIR$/../oop-design/salary-pay/salary-pay.iml" />
+    </modules>
+  </component>
+</project>
